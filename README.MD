@@ -152,3 +152,6 @@ Para visualizar o histórico de runs e comparar modelos após rodar seus própri
 mlflow ui
 ```
 Acesse [http://localhost:5000](http://localhost:5000) no navegador.
+
+Meu track:
+![MLflow Models](visualizations/mlflow_track.png)
