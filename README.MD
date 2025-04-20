@@ -6,14 +6,13 @@ Projeto completo de machine learning para detecção de fraudes em transações 
 - Visão Geral
 - Estrutura do Projeto
 - Como Rodar o Projeto
-- 1. Ambiente e Dependências
-  - 2. Pré-processamento dos Dados
-  - 3. Treinamento do Modelo
-  - 4. Inferência e Explicabilidade
+- Ambiente e Dependências
+- Pré-processamento dos Dados
+- Treinamento do Modelo
+- Inferência e Explicabilidade
 - Resultados
 - Explicabilidade com SHAP
 - Reprodutibilidade e MLflow
-- Licença
 
 ---
 
