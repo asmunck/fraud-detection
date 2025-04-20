@@ -55,9 +55,9 @@ Faça o download do dataset público diretamente do Kaggle:
 
 - [Kaggle: Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)
 
-Após o download, coloque o arquivo `PS_20174392719_1491204439457_log.csv` (ou renomeie para `aimldataset.csv`) na pasta `data/`.
+Após o download, coloque o arquivo `AIML Dataset.csv` (ou renomeie para `aimldataset.csv`) na pasta `data/`.
 
-Se preferir, gere o dataset processado rodando:
+Então, gere o dataset processado rodando:
 
 ```bash
 python src/data_preprocessing.py
